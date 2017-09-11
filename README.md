@@ -12,3 +12,5 @@ Para realizar la instalacion se debe hacer:
 ## Como usar
 Para acceder a la api se debe ingresar a http://localhost:3000 en el navegador.
 
+
+![alt text](https://raw.githubusercontent.com/juliotorresmoreno/backend/master/captura.png)
