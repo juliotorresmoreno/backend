@@ -13,6 +13,10 @@ Para realizar la instalacion se debe hacer:
 
 
 ## Como usar
+ejecutar: 
+1. cd backend
+2. yarn start o npm start
+
 Para acceder a la api se debe ingresar a http://localhost:3000 en el navegador.
 
 
