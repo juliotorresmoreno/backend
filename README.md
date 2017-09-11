@@ -1,5 +1,8 @@
 # backend
 
+## Requisitos
+1. node-v6.11.3 lts.
+2. mongodb sin contraseña.
 
 ## Instalación
 Para realizar la instalacion se debe hacer:
